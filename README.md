@@ -19,19 +19,16 @@ To run any notebook:
 4. Run the cells normally.
 
 ## 📂 Folder Structure
+
 |── ml-playground
+│
+├── data              # raw & processed datasets
+├── notebooks         # Colab notebooks (step-by-step learning)
+├── src               # reusable Python scripts/functions
+├── models            # trained model files (checkpoints, weights)
+├── reports           # analysis, results, documentation
+└── README.md         # project overview
 
-│── data         # raw & processed datasets
-
-│── notebooks    # Colab notebooks (step-by-step learning)
-
-│── src          # reusable Python scripts/functions
-
-│── models       # trained model files (checkpoints, weights)
-
-│── reports      # analysis, results, documentation
-
-│── README.md    # project overview
 
 ## 🛠️ Dependencies
 Most libraries are already available in Colab:
