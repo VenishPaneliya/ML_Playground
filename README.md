@@ -20,19 +20,19 @@ To run any notebook:
 
 ## 📂 Folder Structure
 
+## 📂 Folder Structure
+
+```
 ml-playground/
+│
+├── data       ── Raw & processed datasets
+├── notebooks  ── Colab notebooks (step-by-step learning)
+├── src        ── Reusable Python scripts/functions
+├── models     ── Trained model files (checkpoints, weights)
+├── reports    ── Analysis, results, documentation
+└── README.md  ── Project overview
+```
 
-├── data               ──Raw & processed datasets
-
-├── notebooks         ── Colab notebooks (step-by-step learning)
-
-├── src               # Reusable Python scripts/functions
-
-├── models            # Trained model files (checkpoints, weights)
-
-├── reports           # Analysis, results, documentation
-
-└── README.md         # Project overview
 
 
 ## 🛠️ Dependencies
