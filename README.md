@@ -22,9 +22,9 @@ To run any notebook:
 
 ml-playground/
 
-├── data             --Raw & processed datasets
+├── data               ──Raw & processed datasets
 
-├── notebooks         # Colab notebooks (step-by-step learning)
+├── notebooks         ── Colab notebooks (step-by-step learning)
 
 ├── src               # Reusable Python scripts/functions
 
