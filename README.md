@@ -11,14 +11,16 @@ I will be following a structured roadmap and saving all code, notebooks, and min
 To run any notebook:
 1. Open it in Google Colab.
 2. Mount Google Drive:
+   ```
    from google.colab import drive
    drive.mount('/content/drive')
-3. Change directory to this repo folder:
+   ```
+4. Change directory to this repo folder:
+   ```
    import os
    os.chdir("/content/drive/MyDrive/ml-playground")
-4. Run the cells normally.
-
-## 📂 Folder Structure
+   ```
+5. Run the cells normally.
 
 ## 📂 Folder Structure
 
