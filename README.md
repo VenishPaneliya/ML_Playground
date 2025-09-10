@@ -19,9 +19,7 @@ To run any notebook:
 4. Run the cells normally.
 
 ## 📂 Folder Structure
-
-│── ml-playground
-
+|── ml-playground
 │── data         # raw & processed datasets
 
 │── notebooks    # Colab notebooks (step-by-step learning)
