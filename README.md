@@ -20,6 +20,7 @@ To run any notebook:
 
 ## 📂 Folder Structure
 |── ml-playground
+
 │── data         # raw & processed datasets
 
 │── notebooks    # Colab notebooks (step-by-step learning)
